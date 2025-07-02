@@ -1,0 +1,6 @@
+[submodule "microservices/ordering"]
+	path = microservices/ordering
+	url = ../algashop-ordering
+[submodule "docs"]
+	path = docs
+	url = ../algashop-docs
